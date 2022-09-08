@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MUSICPLAYER/static/css/main.55d9564d.css",
+    "main.css": "/MUSICPLAYER/static/css/main.90601b7c.css",
     "main.js": "/MUSICPLAYER/static/js/main.58cbfec8.js",
     "static/media/YoungboyNeverBrokeAgain.mp3": "/MUSICPLAYER/static/media/YoungboyNeverBrokeAgain.5ed98af351ba9a66dff0.mp3",
     "static/media/XXXTENTACION.mp3": "/MUSICPLAYER/static/media/XXXTENTACION.964b1c717f3885a884c0.mp3",
@@ -35,11 +35,11 @@
     "static/media/sun.svg": "/MUSICPLAYER/static/media/sun.fc115c58331d1d5189fc.svg",
     "static/media/noTimeToDie.jfif": "/MUSICPLAYER/static/media/noTimeToDie.b76d03a55a484e093373.jfif",
     "index.html": "/MUSICPLAYER/index.html",
-    "main.55d9564d.css.map": "/MUSICPLAYER/static/css/main.55d9564d.css.map",
+    "main.90601b7c.css.map": "/MUSICPLAYER/static/css/main.90601b7c.css.map",
     "main.58cbfec8.js.map": "/MUSICPLAYER/static/js/main.58cbfec8.js.map"
   },
   "entrypoints": [
-    "static/css/main.55d9564d.css",
+    "static/css/main.90601b7c.css",
     "static/js/main.58cbfec8.js"
   ]
 }
